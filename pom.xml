@@ -191,6 +191,7 @@
 	</dependencies>
 
 	<build>
+		<finalName>alura-forum</finalName>
 		<sourceDirectory>src</sourceDirectory>
 	    <testSourceDirectory>test</testSourceDirectory>
 		
